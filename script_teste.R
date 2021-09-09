@@ -13,3 +13,4 @@
 # 1. Thiago Cesar Lima Silveira
 # 2. José Saramago
 # 3. Clarice Lispector
+# 4. Bárbara Segal
