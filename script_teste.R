@@ -15,3 +15,4 @@
 # 3. Clarice Lispector
 # 4. Bárbara Segal
 # 5. Manoella Biroli
+# 6. Victoria Raucci
